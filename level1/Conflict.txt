@@ -1,9 +1,6 @@
-I am here to create conflict.
-Line1 
-line2
-Line3
-line4 
-Line6
-Line Seven
-Line 8
-Line 9
+Line 1
+Line Two
+Line 3
+Line Four
+Line 5
+Line Six
