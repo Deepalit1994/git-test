@@ -1,4 +1,0 @@
-Heloo I am test1. 
-Hello I am under VS
-I m Test 1 chnages made in Github Directly.
-I am The change Made in Test1------------------ fine to check how to merger if changes are in a same file. 
